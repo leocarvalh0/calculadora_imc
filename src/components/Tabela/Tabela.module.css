@@ -1,0 +1,18 @@
+.tabela {
+    width: 400px;
+    margin: 40px auto;
+    font-size: 18px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
+.tabela, th, td {
+    border-collapse: collapse;
+    padding: 10px;
+    border: 1px solid rgb(160, 160, 160);
+    text-align: left;
+}
+
+th {
+    background-color: lightgray;
+}
